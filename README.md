@@ -7,7 +7,9 @@ Please note that you should use your own API key, you can get it from https://ww
 
 ![image](https://user-images.githubusercontent.com/82748553/213913349-a9f6dfaf-4cb0-4f0a-9815-8e3351addb03.png)
 
+![image](https://user-images.githubusercontent.com/82748553/213915362-21c30fd1-7529-4b6e-9a6a-dba2fc991c85.png)
 
+Streamlit Web APP
 
 Query: Taj Mahal
 
