@@ -8,10 +8,14 @@ Please note that you should use your own API key, you can get it from https://ww
 ![image](https://user-images.githubusercontent.com/82748553/213913349-a9f6dfaf-4cb0-4f0a-9815-8e3351addb03.png)
 
 
+
 Query: Taj Mahal
 
 ![image](https://user-images.githubusercontent.com/82748553/213913799-db66f44f-0505-4b7d-9cd3-fa3c2dcb9437.png)
 
+
+
 Query: Beach
+
 ![image](https://user-images.githubusercontent.com/82748553/213913856-5292f802-f68f-4e98-b8d0-65a23361ca3d.png)
 
