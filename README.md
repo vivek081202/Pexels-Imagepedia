@@ -1,4 +1,4 @@
-# Pexels-Imagepedia
+# Pexels-Imagepedia @Pexels [https://github.com/pexels]
 It is a simple web application coded purely in python to search queried requests of images and display into your webspace or wherever you want.
 
 This app uses the streamlit library to create a user interface, and the requests library to make an API call to the Pexels API. The search_images() function takes a search query as an argument and returns a JSON object with the search results. The display_images() function takes a list of images as an argument and displays them in the app.
